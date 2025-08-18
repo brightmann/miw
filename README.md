@@ -1,6 +1,6 @@
-# ian.pw
+# ianm.com
 
-My personal website.
+My personal website, available at [ianm.com](https://ianm.com).
 
 Stack:
 
