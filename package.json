@@ -25,7 +25,7 @@
     "disqus-react": "^1.1.5",
     "js-yaml": "^4.1.0",
     "lodash-es": "^4.17.21",
-    "next": "16.x",
+    "next": "16.2.9",
     "next-mdx-remote": "^5.0.0",
     "next-seo": "^6.6.0",
     "prop-types": "^15.8.1",
